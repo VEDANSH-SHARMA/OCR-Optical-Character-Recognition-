@@ -4,7 +4,7 @@ A handwritten document is digitalized by recognizing characters and numerals usi
 Approach:
 1) Python
 2) Open-CV
-3) Image - Character Recognition { Motive: Handwritten (Language: English) }
+3) Image - Character Recognition { Motive: Printed Letters (Language: English) }
 4) Train our machine 
 
 Image Pre-Processing:
@@ -12,4 +12,5 @@ Image Pre-Processing:
 1) Histogram Equalization
 2) Geometric Transformation
 3) Brightness Interpolation
+
 
